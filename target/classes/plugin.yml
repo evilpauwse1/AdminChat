@@ -1,0 +1,4 @@
+name: adminchat
+main: net.buildtheearth.minigames.adminchat.AdminChat
+version: 1.0
+author: evilpauwse
